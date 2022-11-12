@@ -6,6 +6,6 @@
     <string name="button_answer">Choice</string>
 
     <string name="result_title">Result</string>
-    <string name="result_score">%d / 5</string>
+    <string name="result_score">%d / 12</string>
     <string name="button_try_again">Try Again</string>
 </resources>

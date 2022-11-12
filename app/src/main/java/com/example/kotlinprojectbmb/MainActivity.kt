@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private var rightAnswer: String? = null
     private var rightAnswerCount = 0
     private var quizCount = 1
-    private val QUIZ_COUNT = 5
+    private val QUIZ_COUNT = 12
 
     private val quizData = mutableListOf(
         mutableListOf("What is DET 260?", "Game Engines", "3D Modeling", "2D Animation", "Advanced DET"),
